@@ -1,0 +1,701 @@
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 10.26.193.151...
+* Connected to helloworldtest-bold-quokka.apps.sbxadpi.aa20.cloud (10.26.193.151) port 443 (#0)
+* SSL peer handshake failed, the server most likely requires a client certificate to connect
+* Closing connection 0
+curl: (35) SSL peer handshake failed, the server most likely requires a client certificate to connect
